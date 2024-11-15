@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.description {
+  color: #555555;
+  text-align: center;
+  font-weight: 500;
+}
+@media screen and (min-width: 768px) {
+  .description {
+    font-size: 30px;
+    margin-top: 5px;
+  }
+}
